@@ -4,19 +4,24 @@ Trip planing is  web application  created by Saurabh Singh Balke, Sathak Jain, a
 It provide best deals to clients and details of  hotels booking , flights, and excursions, and arranging suitable transportation for them
 
 ## Installation
-Make sure you have Apache, MySQL, and git installed in your system beforehand.
+Make sure you have xampp , MySQL, and git installed in your system beforehand.
 
 Clone the git repo using the following command
 
 ```bash
 https://github.com/Saurabhbalke/trip-planning.git
 ```
+Move this project to following directory
 
+```bash
+C:\xampp\htdocs
+```
 
 Configure the database using the trip.sql file
 
 
 ## Usage
+Start apache and MySql  from xampp
 
 Go to localhost:3000 in your browser to run the website
 
